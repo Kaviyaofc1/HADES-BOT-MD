@@ -4,17 +4,17 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5219992095479', 'Collaborator-BrunoSobrino', true],
-  ['5492266466080']
+  ['94775418384', '𝙆𝘼𝙑𝙄𝙔𝘼 𝙊𝙁𝘾', true],
+  ['94775418384', '𝙆𝘼𝙑𝙄𝙔𝘼 𝙊𝙁𝘾', true],
+  ['94775418384', '𝙆𝘼𝙑𝙄𝙔𝘼 𝙊𝙁𝘾', true],
+  ['94775418384', '𝙆𝘼𝙑𝙄𝙔𝘼 𝙊𝙁𝘾', true],
+  ['94775418384', '𝙆𝘼𝙑𝙄𝙔𝘼 𝙊𝙁𝘾', true],
+  ['94775418384']
 ]
-global.suittag =['5212411719888']
-global.mods = []
-global.prems = ['5212411719888'], 
-global.prems = ['5212411347465'],
+global.suittag =['94775418384']
+global.mods = ['94775418384']
+global.prems = ['94775418384'], 
+global.prems = ['94775418384'],
 global.APIs = { 
 
   amel: 'https://melcanz.com',
@@ -65,21 +65,21 @@ global.APIKeys = {
   'https://anabotofc.herokuapp.com/': 'AnaBot'
 }
 
-global.packname = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.packname = '⫷𝙆𝘼𝙑𝙄𝙔𝘼 𝙊𝙁𝘾 𝘽𝙊𝙏﹏✍'
+global.author = '©𝙆𝘼𝙑𝙄𝙔𝘼 𝙊𝙁𝘾﹏✍'
 global.vs = '1.10.90'
 global.version = vs
-global.gt = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.gt = '⫷𝙆𝘼𝙑𝙄𝙔𝘼 𝙊𝙁𝘾 𝘽𝙊𝙏﹏✍'
 global.hadesbot = gt
 global.yt = 'https://youtu.be/aPu9wQi-z8U'
 global.youtube = yt
 global.ig = 'https://www.instagram'
 global.hadesig = ig
-global.md = 'https://github.com/OFC-YOVANI/HADES-BOT-MD.git'
+global.md = 'https://github.com/kaviyaofc1HADES-BOT-MD.git'
 global.botxdf = md
-global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
+global.nn = 'https://chat.whatsapp.com/HW0irZWSplaE5vUWpQeRAI'
 global.nngrupo = nn
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'https://chat.whatsapp.com/HW0irZWSplaE5vUWpQeRAI'
 global.nnngrupo = nnn
 global.paypal = 'https://pay'
 global.donar = paypal
@@ -98,8 +98,8 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍\n'
-global.igfg = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.wm = '©𝙆𝘼𝙑𝙄𝙔𝘼 𝙊𝙁𝘾﹏✍\n⫷𝙆𝘼𝙑𝙄𝙔𝘼 𝙊𝙁𝘾 𝘽𝙊𝙏﹏✍\n'
+global.igfg = '⫷𝙆𝘼𝙑𝙄𝙔𝘼 𝙊𝙁𝘾 𝘽𝙊𝙏﹏✍'
 global.wait = '⌛_Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
